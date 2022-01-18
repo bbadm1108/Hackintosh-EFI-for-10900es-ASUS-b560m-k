@@ -1,4 +1,4 @@
-# Hackintosh-OC0.7.6-EFI-for-10900es-b560m-RX580
+# Hackintosh-Monterey-MacOS-OC0.7.6-EFI-for-10900es-b560m-RX580
 
 机器配置：
 CPU：intel十代10900es   
