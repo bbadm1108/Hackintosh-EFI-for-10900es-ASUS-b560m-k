@@ -13,3 +13,5 @@ wifi/蓝牙卡：苹果Bcm94260cs2转接pcie卡
   
 问题：  
 1、蓝牙与iphone连接后自动断开，原因不明。
+
+<img width="715" alt="截屏2022-01-18 12 24 02" src="https://user-images.githubusercontent.com/97930740/149871347-a362b2a0-9851-43de-89ec-b0d230a0881f.png">
