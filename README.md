@@ -2,7 +2,7 @@
 
 机器配置：
 CPU：intel十代10900es
-主板：华硕b560m-k
+主板：华硕b560m-k（网卡intel I219-V）
 显卡：Radeon RX580 4G
 wifi/蓝牙卡：苹果Bcm94260cs2转接pcie卡
 
